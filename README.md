@@ -1,8 +1,6 @@
 # Learning-Roadmap
 My self-taught journey to mastering Python, systems, engines, and ethical hacking
 
-🧠 Gabe’s Full Self-Taught Computer Mastery Roadmap
-
 GOAL:
 Master computing from the lowest level (CPU, memory, OS) to the highest (automation, apps, game engines), while proving your skills through GitHub projects and certifications.
 
